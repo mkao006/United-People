@@ -19,12 +19,16 @@ to help those who are in need even with the smallest involvement.
 
 ## Why Do We Need Such an NGO
 
-Financially, the United Nations has a budget of 5.512 billion USD for
-the 2012-13 bi-annum; this is equivalent to only 0.38 USD per year per
-person. Collecting survey may cost millions of dollar, but individuals
-can assist the data collection by means of online-technology. Numbeo
-collects food prices at the consumer level, a statistic vital to
-resolving hunger yet not collected by the United Nations.
+We want the people who are in need to express their problems, and
+provide connection to those with the skills and resources to help
+them. Most NGOs and governments does not have the resources nor
+capacities to observe every single aspect of those who are in
+need. Information are lost at every single level of communication,
+thus, we believe providing a forum directly linking to the one who are
+in need will minimize the loss of information.
+
+Need to think about how to restrict the questions and projects without
+losing focus. 
 
 ## How Do we make the involvements
 
@@ -33,11 +37,14 @@ the cost of running the organization.
 
 * Policy recommendation engine - This will serve as the core of the
   platform. The engine will be open source and reside on Github for
-  everyone to contribute.
+  everyone to contribute. Even helping your own country will help
+  other country position theirself.
 
 * Online Competition - A Kaggle like online competition which skilled
   people around the world can collaborate to provide evidence based
-  decision making.
+  decision making. Individuals who reside in the country or are
+  associate with the problem can provide more insight through the
+  forum.
 
 * Peer Review - Stackoverflow like evaluation to assess the best
   solution and draw interest by means of gamification.
@@ -50,3 +57,22 @@ the cost of running the organization.
 * Feedback - Using media to connect the helper with those being
   helped. Providing a real life like connection for helpers to see how
   their contribution is making a change.
+
+
+* Ranking Importance - People around the world can vote and decide
+  what are the most burning issue this platform should focus and
+  solve.
+
+* Volunteer translator - People facing severe basic right problem may
+  not communicate in a global language or access to internet. People
+  can contribute by translating the message and provide access to
+  the forum.
+
+## Actions Required To Set Up The NGO
+
+* A Board
+
+* Set up the head quarter in Taiwan.
+
+* Programmers or collaboration with Kaggle and Stackoverflow to
+  develope a prototype.
