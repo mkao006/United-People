@@ -7,7 +7,7 @@ difficult problems in the world.
 ## Vision
 
 To achieve a world with no poverty, hunger by connecting every citizen
-of this planet.
+of this planet to form a global volunteer network.
 
 ## Mission Statement
 
@@ -32,7 +32,8 @@ A strong emphasis in the use of modern technology, this will reduce
 the cost of running the organization.
 
 * Policy recommendation engine - This will serve as the core of the
-  platform. 
+  platform. The engine will be open source and reside on Github for
+  everyone to contribute.
 
 * Online Competition - A Kaggle like online competition which skilled
   people around the world can collaborate to provide evidence based
@@ -41,9 +42,11 @@ the cost of running the organization.
 * Peer Review - Stackoverflow like evaluation to assess the best
   solution and draw interest by means of gamification.
 
-* Donation - Donation are resricted to 1$ per day per person, to
-  emphasize that we need everyone oppose to a single powerful
-  individual. This will also draw donors to return frequently.
+* Donation - Kickstarter project like funding programe, with donation
+  are resricted to 1$ per day per person, to emphasize that we need
+  everyone oppose to a single powerful force. This will also draw
+  donors to return frequently.
 
 * Feedback - Using media to connect the helper with those being
-  helped. Providing a real connection between people.
+  helped. Providing a real life like connection for helpers to see how
+  their contribution is making a change.
